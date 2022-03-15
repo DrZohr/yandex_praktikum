@@ -9,7 +9,7 @@
 * Маркетинг-аналитик
 * Data Analyst
 
-# Навыки и инструменты 
+## Навыки и инструменты 
 * PostgreSQL 
 * Python
 * SQLAlchemy
